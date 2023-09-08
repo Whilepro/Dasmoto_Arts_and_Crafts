@@ -1,0 +1,73 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    border: 1px solid red;
+  }
+  body {
+    margin: 0 auto;
+  }
+  header {
+    background-image: url("../pattern.jpeg");
+    height: 115px;
+    margin: 40px 0;
+  }
+  h1 {
+    color: SeaGreen;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin: 0 auto;
+  }
+  h2 {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    margin-top: 0;
+  }
+  h3 {
+    text-align: center;
+  }
+  p {
+    font-size: 12px;
+    height: 50px;
+    text-align: center;
+  }
+  .brushes {
+    background-color: mediumspringgreen;
+  }
+  .frames {
+    background-color: lightcoral;
+  }
+  .paint {
+    background-color: skyblue;
+  }
+  section {
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+  }
+  section img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  button {
+  cursor: pointer;
+  text-align: center;
+  padding: 10px 20px;
+  color:blue;
+  font-weight: bold;
+  background-color: white;
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  
+  }
+  .container {
+    margin: 0 auto;
+  }
+  
+
+
